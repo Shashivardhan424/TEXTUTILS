@@ -1,3 +1,6 @@
+NOTE : AFTER CLICKING REPOSITORY URL , CLICK ON HOME ...
+
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
